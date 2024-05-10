@@ -1,3 +1,3 @@
 <?php 
-	$koneksi = mysqli_connect('localhost','root','','inventory');
+	$koneksi = mysqli_connect('localhost','root','','native_inventory');
  ?>
